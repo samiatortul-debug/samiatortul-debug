@@ -1,4 +1,4 @@
-## tony pitoni👋<img width="500" height="500" alt="A8BB6034-A8D2-448F-B6B9-0526C4E8E4B0" src="https://github.com/user-attachments/assets/99b44e12-42f5-4f79-93d8-6d7fe3aa567e" />
+## tony pitoni👋
 
 <!--
 **samiatortul-debug/samiatortul-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
