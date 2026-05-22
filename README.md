@@ -1,6 +1,4 @@
 ## tony pitoni👋
-
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/31c9f1c5-ee83-4ad7-99f2-bc5b24434032" />
 <img width="500" height="500" alt="Screenshot 2026-05-21 221942" src="https://github.com/user-attachments/assets/410c891e-1a37-4b3d-b04f-15fd49fa12be" />
 <img width="1000" height="500" alt="Screenshot 2026-05-21 222454" src="https://github.com/user-attachments/assets/924a71e9-f2ea-407d-b732-9c45d63cd510" />
 <img width="500" height="1500" alt="Screenshot 2026-05-21 222331" src="https://github.com/user-attachments/assets/2490fffa-b458-428e-9ba3-d941850a1f30" />
