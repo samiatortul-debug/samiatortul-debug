@@ -1,4 +1,5 @@
 ## tony 
+<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/be0f08f1-9d95-4a1d-a301-90466f82a003" />
 
 <!--
 **samiatortul-debug/samiatortul-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
